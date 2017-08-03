@@ -19,7 +19,7 @@ The top icon is an internet browser link. It defaults to Firefox.
 
 The right icon opens a menu dedicated to chat programs. From top to bottom in the menu: Skype, Teamspeak, Mumble, Discord.
 
-The bottom hover opens a game menu. From left to right: GogGalaxy, BattleNet, Steam (right click to open SteamApp folder), Origin, Misc. The misc opens a subfolder that currently only contains Minecraft.
+The bottom hover opens a game menu. From left to right: GogGalaxy, BattleNet, Steam, Origin, Misc. Left clicking these will open their programs. Right clicking any of these will open their folders. The misc opens a subfolder on hover that currently only contains Minecraft.
 
 The left submenu is for everything else. From top to bottom: LibreOffice, My Computer, GIMP, Settings.
 
