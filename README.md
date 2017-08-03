@@ -11,7 +11,7 @@ Keep me updated on any cool changes or additions you make, as well.
 
 Defaults Guide:
 
-First, put the Autohotkey exe into your startup folder. By default, when it's running, your left Windows key will be disabled, and instead open the menu at your cursor's location.
+First, put the Autohotkey exe into your startup folder. By default, when it's running, your left Windows key will be disabled, and instead open the menu at your cursor's location. To change keybinds and Rainmeter location, install AutoHotKey (www.autohotkey.com), edit the .ahk file, then recompile it into a new .exe.
 
 Keep in mind all icons are currently linked to my computer, and may differ for yours, needing to be changed in the code.
 
