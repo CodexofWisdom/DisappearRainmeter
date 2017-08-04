@@ -51,6 +51,6 @@ Installation guide:
 
 8.) Now launch the extracted EXE file to disable the Windows key's default action and set it as the hotkey for opening the menu. If you want to choose a different hotkey, you will once again need to edit the AHK file and compile it.
 
-9.) If you wish to load the menu on Windows startup, place the EXE file inside the Windows Startup folder ('C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup') and make sure that it is enabled, alongside Rainmeter, to launch on startup in the Task Manager or 'msconfig' in older versions of Windows.
+9.) If you wish to load the menu on Windows startup, place the EXE file inside the Windows Startup folder ('C:\Users\\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup') and make sure that it is enabled, alongside Rainmeter, to launch on startup in the Task Manager or 'msconfig' in older versions of Windows.
 
 Video guide coming soon.
