@@ -39,7 +39,7 @@ Installation guide:
 
 2.) Extract the downloaded archive.
 
-3.) Copy the extracted 'Menu' folder to the Rainmeter 'Skins' folder (DEFAULT: 'C:\Users\%USERNAME%\Documents\Rainmeter\Skins').
+3.) Copy the extracted 'Menu' folder to the Rainmeter 'Skins' folder (DEFAULT: 'C:\Users\\%USERNAME%\Documents\Rainmeter\Skins').
 
 4.) Copy the DLL files in the downloaded 'Plugins' folder to your Rainmeter 'Plugins' folder (DEFAULT: 'C:\Program Files\Rainmeter\Plugins').
 
