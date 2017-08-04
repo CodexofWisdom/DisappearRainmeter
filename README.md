@@ -34,14 +34,23 @@ Enjoy!
 Installation guide:
 
 0.) To use this menu, you are required to have Rainmeter installed (https://www.rainmeter.net/).
+
 1.) Download the repository at https://github.com/CodexofWisdom/DisappearRainmeter.
+
 2.) Extract the downloaded archive.
-3.) Copy the extracted 'Menu' folder to the Rainmeter 'Skins' folder (DEFAULT: 'C:\Users\%USERNAME%\Documents\Rainmeter\Skins').
+
+3.) Copy the extracted 'Menu' folder to the Rainmeter 'Skins' folder (DEFAULT: 'C:\Users\\%USERNAME%\Documents\Rainmeter\Skins').
+
 4.) Copy the DLL files in the downloaded 'Plugins' folder to your Rainmeter 'Plugins' folder (DEFAULT: 'C:\Program Files\Rainmeter\Plugins').
+
 5.) If you changed the default installation location of Rainmeter (DEFAULT: 'C:\Program Files\Rainmeter'), you will need to edit the EXE file, which is done by editing and compiling the AHK file included. Compiling AHK files requires Autohotkey (https://autohotkey.com/).
+
 6.) To enable the skin, open the 'Manage skin' window in Rainmeter and load the 'Menu' skin by selecting 'menu.ini' inside the skin's folder and pressing LOAD. To set the paths of programs, press the EDIT button to open the INI file and insert paths where instructed.
+
 7.) Make sure the skin's settings are set as on the following pictures: http://prntscr.com/g4fa8g, http://prntscr.com/g4fagl.
+
 8.) Now launch the extracted EXE file to disable the Windows key's default action and set it as the hotkey for opening the menu. If you want to choose a different hotkey, you will once again need to edit the AHK file and compile it.
-9.) If you wish to load the menu on Windows startup, place the EXE file inside the Windows Startup folder ('C:\Users\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup') and make sure that it is enabled, alongside Rainmeter, to launch on startup in the Task Manager or 'msconfig' in older versions of Windows.
+
+9.) If you wish to load the menu on Windows startup, place the EXE file inside the Windows Startup folder ('C:\Users\\%USERNAME%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup') and make sure that it is enabled, alongside Rainmeter, to launch on startup in the Task Manager or 'msconfig' in older versions of Windows.
 
 Video guide coming soon.
