@@ -31,7 +31,7 @@ Feel free to use this code however you like, as long as you give credit to mysel
 
 Enjoy!
 
-Installation guide:
+Installation guide:  
 [Video guide for the lazy](https://youtu.be/Q6MjpPuARsk)
 
 0.) To use this menu, you are required to have [Rainmeter](https://www.rainmeter.net/) installed .
